@@ -1,0 +1,19 @@
+Domain,IP Address,Registrar,Organization Name,Date Created,Date Expires,Nameserver
+akamaihd.net,---,"Akamai Technologies, Inc.",-,14/09/2009, 2019-09-14,ax0.akamaistream.net ; ax1.akamaistream.net ; ax2.akamaistream.net ; ax3.akamaistream.net ; ns2-32.akamaistream.net ; ns3-32.akamaistream.net ; ns6-32.akamaistream.net ; p5.akamaistream.net ; p6.akamaistream.net ; p7.akamaistream.net ; p8.akamaistream.net ; 
+appspot.com,216.58.219.49,MarkMonitor Inc.,Google,10/03/2005, 2019-03-10,ns1.google.com ; ns2.google.com ; ns3.google.com ; ns4.google.com ; 
+cdninstagram.com,---,MarkMonitor Inc.,-,01/05/2014, 2018-05-01,a.ns.igcdn.com ; b.ns.igcdn.com ; 
+edgekey.net,---,"Akamai Technologies, Inc.",-,04/10/2001, 2019-10-04,a12-65.akam.net ; a13-65.akam.net ; a16-65.akam.net ; a18-65.akam.net ; a28-65.akam.net ; a5-65.akam.net ; a6-65.akam.net ; adns1.akam.net ; ns1-66.akam.net ; ns4-66.akam.net ; ns5-66.akam.net ; ns7-65.akam.net ; usw6.akam.net ; 
+edgesuite.net,---,"Akamai Technologies, Inc.",-,02/04/2001, 2023-04-02,a12-64.akam.net ; a13-64.akam.net ; a18-64.akam.net ; a24-64.akam.net ; a28-64.akam.net ; a5-64.akam.net ; a6-64.akam.net ; adns3.akam.net ; ns1-2.akam.net ; ns4-65.akam.net ; ns5-65.akam.net ; ns7-65.akam.net ; usw6.akam.net ; 
+facebook.com,31.13.70.36,MarkMonitor Inc.,Facebook,29/03/1997, 2025-03-30,a.ns.facebook.com ; b.ns.facebook.com ; 
+facebook.net,---,MarkMonitor Inc.,-,01/04/2004, 2020-04-01,a.ns.facebook.com ; b.ns.facebook.com ; 
+fb.com,31.13.70.36,MarkMonitor Inc.,Facebook,22/05/1990, 2019-05-23,a.ns.facebook.com ; b.ns.facebook.com ; 
+fb.me,31.13.70.36,Available,Facebook,-,-,-
+fbcdn.com,31.13.70.1,MarkMonitor Inc.,Facebook,03/05/2007, 2019-05-03,a.ns.facebook.com ; b.ns.facebook.com ; 
+fbcdn.net,157.240.11.35,MarkMonitor Inc.,Facebook,03/05/2007, 2018-05-03,a.ns.facebook.com ; b.ns.facebook.com ; 
+fbsbx.com,157.240.22.35,MarkMonitor Inc.,Facebook,08/06/2010, 2018-06-08,a.ns.facebook.com ; b.ns.facebook.com ; 
+instagram.com,243.185.187.39,"RegistrarSafe, LLC",Amazon.com,04/06/2004, 2027-06-04,ns-1349.awsdns-40.org ; ns-2016.awsdns-60.co.uk ; ns-384.awsdns-48.com ; ns-868.awsdns-44.net ; 
+m.me,157.240.22.19,Available,Facebook,-,-,-
+messenger.com,157.240.22.19,Hogan Lovells International LLP,Facebook,04/11/1998, 2018-11-03,a.ns.facebook.com ; b.ns.facebook.com ; 
+online-metrix.net,---,"GoDaddy.com, LLC",-,28/01/2009, 2020-10-16,pdns249.ultradns.biz ; pdns249.ultradns.com ; pdns249.ultradns.net ; pdns249.ultradns.org ; 
+tfbnw.net,---,MarkMonitor Inc.,-,18/12/2004, 2019-12-18,a.ns.facebook.com ; b.ns.facebook.com ; 
+whatsapp.com,192.155.212.203,MarkMonitor Inc.,SoftLayer Technologies,04/09/2008, 2023-09-04,ns1.p13.dynect.net ; ns2.p13.dynect.net ; ns3.p13.dynect.net ; ns4.p13.dynect.net ; 
